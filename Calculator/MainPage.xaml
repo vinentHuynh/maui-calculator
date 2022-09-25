@@ -5,7 +5,7 @@
 
     <Grid Padding="16" RowSpacing="2" ColumnSpacing="2"
           RowDefinitions="2*,*,*,*,*,*"
-          ColumnDefinitions="*,*,*,*">
+          ColumnDefinitions="*,*,*,*,*">
 
         <Label x:Name="CurrentCalculation"
                FontSize="22"
@@ -24,7 +24,7 @@
 
         <BoxView BackgroundColor="{StaticResource LightGray}" HeightRequest="1"
                  Grid.Row="0" VerticalOptions="End"
-                 Grid.ColumnSpan="4"
+                 Grid.ColumnSpan="5"
                  />
 
         <Button Text="C" Grid.Row="1" Grid.Column="0"
@@ -33,6 +33,7 @@
                Clicked="OnNegative" />
         <Button Text="%" Grid.Row="1" Grid.Column="2"
                Clicked="OnPercentage" />
+        
 
         <Button Text="7" Grid.Row="2" Grid.Column="0"
                Clicked="OnSelectNumber" />
@@ -69,6 +70,15 @@
         <Button Text="-" Grid.Row="3" Grid.Column="3"
                Clicked="OnSelectOperator" />
         <Button Text="+" Grid.Row="4" Grid.Column="3"
+               Clicked="OnSelectOperator" />
+
+         <Button Text="(" Grid.Row="1" Grid.Column="4"
+               Clicked="OnSelectOperator" />
+        <Button Text=")" Grid.Row="2" Grid.Column="4"
+               Clicked="OnSelectOperator" />
+        <Button Text="%" Grid.Row="3" Grid.Column="4"
+               Clicked="OnSelectOperator" />
+        <Button Text="sqrt" Grid.Row="4" Grid.Column="4"
                Clicked="OnSelectOperator" />
 
 

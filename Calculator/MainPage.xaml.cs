@@ -123,4 +123,20 @@ public partial class MainPage : ContentPage
             OnCalculate(this, null);
         }
     }
+    void OnSqrt(object sender, EventArgs e)
+    {
+
+    }
+    void OnLeftPara(object sender, EventArgs e)
+    {
+
+    }
+    void OnRightPara(object sender, EventArgs e)
+    {
+
+    }
+    void OnMod(object sender, EventArgs e)
+    {
+    }
+
 }
