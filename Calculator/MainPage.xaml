@@ -73,13 +73,13 @@
                Clicked="OnSelectOperator" />
 
          <Button Text="(" Grid.Row="1" Grid.Column="4"
-               Clicked="OnSelectOperator" />
+               Clicked="OnRightPara" />
         <Button Text=")" Grid.Row="2" Grid.Column="4"
-               Clicked="OnSelectOperator" />
-        <Button Text="%" Grid.Row="3" Grid.Column="4"
-               Clicked="OnSelectOperator" />
+               Clicked="OnLeftPara" />
+        <Button Text="mod" Grid.Row="3" Grid.Column="4"
+               Clicked="OnMod" />
         <Button Text="sqrt" Grid.Row="4" Grid.Column="4"
-               Clicked="OnSelectOperator" />
+               Clicked="OnSqrt" />
 
 
 
