@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Calculator.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Calculator"
+    Shell.FlyoutBehavior="Flyout">
+
+    <Shell.FlyoutIcon>
+        <FontImageSource Color="LightGrey" Size="24" Glyph="&#xf30c;"/>
+    </Shell.FlyoutIcon>
+
+    <FlyoutItem Title="Calculator" Icon="calc.svg">
+        <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="About" Icon="about.svg">
+        <ShellContent
+        Title="About"
+        ContentTemplate="{DataTemplate local:AboutPage}"
+        Route="AboutPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Settings" Icon="gear">
+        <ShellContent
+        Title="Settings"
+        ContentTemplate="{DataTemplate local:SettingPage}"
+        Route="SettingPage" />
+    </FlyoutItem>
+</Shell>
+

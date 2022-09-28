@@ -1,5 +1,7 @@
 ﻿namespace Calculator;
 using System.Data;
+//using Android.Widget;
+
 public partial class MainPage : ContentPage
 {
     
@@ -90,7 +92,7 @@ public partial class MainPage : ContentPage
     {
         
                 //LockNumberValue(resultText.Text);
-            DataTable dt = new DataTable();
+           DataTable dt = new DataTable();
 
         // double result = Calculator.Calculate(firstNumber, secondNumber, mathOperator);
 
@@ -152,5 +154,6 @@ public partial class MainPage : ContentPage
     void OnMod(object sender, EventArgs e)
     {
     }
+
 
 }
