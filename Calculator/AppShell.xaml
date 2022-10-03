@@ -30,5 +30,16 @@
         ContentTemplate="{DataTemplate local:SettingPage}"
         Route="SettingPage" />
     </FlyoutItem>
+
+    <MenuItem
+        Text="Light Mode"
+        Command="{Binding LightCommand}"
+        CommandParameter="https://learn.microsoft.com/dotnet/maui/fundamentals/shell">
+    </MenuItem>
+
+    <MenuItem
+        Text="Dark Mode"
+        Clicked="OnDark">
+    </MenuItem>
 </Shell>
 
