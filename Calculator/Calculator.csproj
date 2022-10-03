@@ -70,4 +70,10 @@
 	    <DependentUpon>AppShell.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
+	<ItemGroup>
+	  <None Remove="Resources\Images\default-profile.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiImage Include="Resources\Images\prof.png" />
+	</ItemGroup>
 </Project>

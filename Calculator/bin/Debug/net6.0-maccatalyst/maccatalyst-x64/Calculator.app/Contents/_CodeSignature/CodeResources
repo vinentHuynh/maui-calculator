@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		WdkoUC4ToyEGnmmWWil5mrbC9Sk=
+		DqLVmU7wR1pvvTFAHVho42FWkBg=
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
@@ -44,6 +44,10 @@
 		<data>
 		hBT8Pm526xxzLtDpjk4f/WNZxKA=
 		</data>
+		<key>Resources/prof.png</key>
+		<data>
+		tzZ7GtPqTG0oMGeUIpH2LOF7EQ0=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -51,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p7Wqwv8xmpQ8cJCt+SkK0ffx/sl+9kZIx0BiUnJ2/gE=
+			37rxM0BCK4RCSILQ7tK/rjSl/RnuA+84BAlkarB0MKM=
 			</data>
 		</dict>
 		<key>MonoBundle/Calculator.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMCn+fvXfN9g2Exp60/hyanD57hZD9c3NMhb5C3UZiI=
+			bLEETzyYsuJ8A5kwrrIuY8C/Tkva0qmQkH9+E8peUYg=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1395,7 +1399,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zn0uy3ScRyLMgwubl/2Gv0yTrxyS5TXIhO+JJfGsRH0=
+			+8FoGBg73xzsmbYB7g/urMHF9fimqN7KEesZIw30KFM=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>
@@ -1452,6 +1456,13 @@
 			<key>hash2</key>
 			<data>
 			4WOv67zjLV01qoTabAjKPANzApzvLyEhnLTF3xlhluk=
+			</data>
+		</dict>
+		<key>Resources/prof.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j6irsG0nOMpm+jPrMq9Pakgrn+5QQFie2QGMBeYol7c=
 			</data>
 		</dict>
 	</dict>

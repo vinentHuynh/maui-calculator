@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Calculator.SettingPage"
              xmlns:local="clr-namespace:Calculator"
-             Title="SettingPage">
+             Title="Settings">
     <VerticalStackLayout>
         <Label 
             Text="Change Color"
