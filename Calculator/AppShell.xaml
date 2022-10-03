@@ -30,6 +30,12 @@
         ContentTemplate="{DataTemplate local:SettingPage}"
         Route="SettingPage" />
     </FlyoutItem>
+    <FlyoutItem Title="Calculator Lite" Icon="gear">
+        <ShellContent
+        Title="Calculator Lite"
+        ContentTemplate="{DataTemplate local:BasicCalc}"
+        Route="CalculatorPlus" />
+    </FlyoutItem>
 
     <MenuItem
         Text="Light Mode"
