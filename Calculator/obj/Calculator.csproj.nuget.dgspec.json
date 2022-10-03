@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevin/Documents/CS665/maui-calculator/Calculator/Calculator.csproj": {}
+    "/Users/tuan/Desktop/maui-calculator/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/Users/kevin/Documents/CS665/maui-calculator/Calculator/Calculator.csproj": {
+    "/Users/tuan/Desktop/maui-calculator/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevin/Documents/CS665/maui-calculator/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/tuan/Desktop/maui-calculator/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/kevin/Documents/CS665/maui-calculator/Calculator/Calculator.csproj",
-        "packagesPath": "/Users/kevin/.nuget/packages/",
-        "outputPath": "/Users/kevin/Documents/CS665/maui-calculator/Calculator/obj/",
+        "projectPath": "/Users/tuan/Desktop/maui-calculator/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/tuan/.nuget/packages/",
+        "outputPath": "/Users/tuan/Desktop/maui-calculator/Calculator/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "/Users/kevin/.nuget/NuGet/NuGet.Config"
+          "/Users/tuan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0-android",
@@ -52,12 +52,12 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             }
           },
@@ -96,12 +96,12 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
@@ -145,12 +145,12 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
+              "version": "[6.0.536, )",
               "autoReferenced": true
             },
             "System.Runtime.InteropServices.NFloat.Internal": {

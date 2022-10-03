@@ -58,9 +58,6 @@
 	  <MauiXaml Update="Resources\Styles\Styles.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
-	  <MauiXaml Update="Resources\Styles\Colors.xaml">
-	    <SubType></SubType>
-	  </MauiXaml>
 	  <MauiXaml Update="Platforms\Android\Resources\values\Colors.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
