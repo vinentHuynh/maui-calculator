@@ -1,34 +1,38 @@
 ﻿<Properties StartupConfiguration="{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Resources/Styles/Styles.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Resources/Styles/LightMode.xaml">
     <Files>
       <File FileName="Calculator/Calculator.cs" Line="52" Column="13" />
       <File FileName="Calculator/MainPage.xaml.cs" Line="18" Column="5" />
       <File FileName="Calculator/MauiProgram.cs" Line="1" Column="21" />
-      <File FileName="Calculator/MainPage.xaml" Line="23" Column="33" />
+      <File FileName="Calculator/MainPage.xaml" Line="18" Column="30" />
       <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
       <File FileName="Calculator/App.xaml.cs" Line="1" Column="21" />
-      <File FileName="Calculator/App.xaml" Line="15" Column="1" />
+      <File FileName="Calculator/App.xaml" Line="34" Column="29" />
       <File FileName="Calculator/AboutPage.xaml" Line="9" Column="37" />
       <File FileName="Calculator/SettingPage.xaml" Line="11" Column="31" />
       <File FileName="Calculator/SettingPage.xaml.cs" Line="10" Column="1" />
       <File FileName="Calculator/AboutPage.xaml.cs" Line="1" Column="21" />
-      <File FileName="Calculator/AppShell.xaml" Line="17" Column="27" />
+      <File FileName="Calculator/AppShell.xaml" Line="31" Column="31" />
       <File FileName="Calculator/AppShell.xaml.cs" Line="1" Column="21" />
       <File FileName="Calculator/Platforms/Android/MainApplication.cs" Line="16" Column="1" />
       <File FileName="Calculator/Platforms/MacCatalyst/AppDelegate.cs" Line="3" Column="21" />
-      <File FileName="Calculator/Resources/Styles/Styles.xaml" Line="25" Column="51" />
+      <File FileName="Calculator/Resources/Styles/LightMode.xaml" Line="60" Column="32" />
+      <File FileName="Calculator/Resources/Styles/DarkMode.xaml.cs" Line="1" Column="1" />
+      <File FileName="Calculator/Resources/Styles/DarkMode.xaml" Line="27" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Calculator" expanded="True">
             <Node name="Calculator" expanded="True">
+              <Node name="Platforms" expanded="True" />
               <Node name="Resources" expanded="True">
-                <Node name="Styles" expanded="True" />
+                <Node name="Styles" expanded="True">
+                  <Node name="LightMode.xaml" selected="True" />
+                </Node>
               </Node>
+              <Node name="SettingPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -38,9 +42,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
 </Properties>
