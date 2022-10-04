@@ -3005,3 +3005,4 @@
 /Users/tuan/Desktop/maui-calculator/Calculator/obj/Debug/net6.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/tuan/Desktop/maui-calculator/Calculator/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports.stamp
 /Users/kevin/Documents/CS665/maui-calculator/Calculator/obj/Debug/net6.0-android/resizetizer/r/drawable/prof.png
+/Users/tuan/Desktop/maui-calculator/Calculator/obj/Debug/net6.0-android/resizetizer/r/drawable/prof.png

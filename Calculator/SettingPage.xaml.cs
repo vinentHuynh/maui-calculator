@@ -1,9 +1,0 @@
-﻿namespace Calculator;
-
-public partial class SettingPage : ContentPage
-{
-	public SettingPage()
-	{
-		InitializeComponent();
-	}
-}

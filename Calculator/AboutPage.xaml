@@ -22,8 +22,14 @@
             FontAttributes="Bold"
             VerticalTextAlignment="Center"
             HorizontalTextAlignment="Center"
-            BackgroundColor="#b9aaee"
+            BackgroundColor="{DynamicResource MeetTheDevsBackground}"
             >Meet the Devs</Label>
+
+        <Label
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            Grid.ColumnSpan="3"
+            BackgroundColor="{DynamicResource LowerAboutBackground}"/>
 
         <Label
                 Grid.Row="1"

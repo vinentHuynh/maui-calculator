@@ -4,7 +4,6 @@
              xmlns:local="clr-namespace:Calculator"
              x:Class="Calculator.App">
     <Application.Resources>
-
         <Style TargetType="Button">
             <Setter Property="TextColor" Value="{DynamicResource ButtonTextColor}" />
             <Setter Property="BackgroundColor" Value="{DynamicResource ButtonBackgroundColor}" />
@@ -17,7 +16,6 @@
                     <VisualStateGroup x:Name="CommonStates">
                         <VisualState x:Name="Normal">
                             <VisualState.Setters>
-                            
                             </VisualState.Setters>
                         </VisualState>
                         <VisualState x:Name="Disabled">
@@ -30,6 +28,23 @@
                 </VisualStateGroupList>
             </Setter>
         </Style>
+
+        <Style TargetType="Page" ApplyToDerivedTypes="True">
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="BackgroundColor" Value="{DynamicResource PageBackgroundColor}" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="TextColor" Value="{DynamicResource LabelTextColor}" />
+            <Setter Property="FontFamily" Value="OpenSansRegular" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+
+        <Style x:Key="BaseStyle" TargetType="Element">
+            <Setter Property="Shell.BackgroundColor" Value="{DynamicResource FlyoutBackground}" />
+            <Setter Property="Shell.TitleColor" Value="{DynamicResource LabelTextColor}" />
+        </Style>
+        <Style BasedOn="{StaticResource BaseStyle}" TargetType="FlyoutItem" ApplyToDerivedTypes="True" />
 
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

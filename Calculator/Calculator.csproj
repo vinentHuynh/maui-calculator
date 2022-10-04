@@ -52,9 +52,6 @@
 	  <MauiXaml Update="AboutPage.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
-	  <MauiXaml Update="SettingPage.xaml">
-	    <SubType></SubType>
-	  </MauiXaml>
 	  <MauiXaml Update="Resources\Styles\Styles.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
@@ -66,6 +63,18 @@
 	  </MauiXaml>
 	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Resources\Styles\Styles %28copy%29.xaml">
 	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Resources\Styles\LightMode %28copy%29.xaml">
+	    <SubType>Designer</SubType>
+	  </MauiXaml>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Resources\Styles\GreenMode.xaml">
+	    <SubType>Designer</SubType>
+	  </MauiXaml>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Resources\Styles\DarkMode %28copy%29.xaml">
+	    <SubType>Designer</SubType>
+	  </MauiXaml>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Resources\Styles\PinkMode.xaml">
+	    <SubType>Designer</SubType>
 	  </MauiXaml>
 	</ItemGroup>
 	<ItemGroup>

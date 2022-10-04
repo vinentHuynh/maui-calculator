@@ -7,64 +7,70 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator
-build_property.ProjectDir = /Users/kevin/Documents/CS665/maui-calculator/Calculator/
+build_property.ProjectDir = /Users/tuan/Desktop/maui-calculator/Calculator/
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/AboutPage.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/App.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/AppShell.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/BasicCalc.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/BasicCalc.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.BasicCalc.xaml
 build_metadata.AdditionalFiles.TargetPath = BasicCalc.xaml
 build_metadata.AdditionalFiles.RelativePath = BasicCalc.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/MainPage.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/Platforms/Android/Resources/values/Colors.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/Platforms/Android/Resources/values/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Platforms.Android.Resources.values.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Platforms/Android/Resources/values/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Platforms/Android/Resources/values/Colors.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/Platforms/Android/Resources/values/Styles.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/Platforms/Android/Resources/values/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Platforms.Android.Resources.values.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Platforms/Android/Resources/values/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Platforms/Android/Resources/values/Styles.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/Resources/Styles/DarkMode.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/Resources/Styles/DarkMode.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.DarkMode.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/DarkMode.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/DarkMode.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/Resources/Styles/LightMode.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/Resources/Styles/GreenMode.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.GreenMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/GreenMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/GreenMode.xaml
+
+[/Users/tuan/Desktop/maui-calculator/Calculator/Resources/Styles/LightMode.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.LightMode.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/LightMode.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/LightMode.xaml
 
-[/Users/kevin/Documents/CS665/maui-calculator/Calculator/SettingPage.xaml]
+[/Users/tuan/Desktop/maui-calculator/Calculator/Resources/Styles/PinkMode.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Calculator.SettingPage.xaml
-build_metadata.AdditionalFiles.TargetPath = SettingPage.xaml
-build_metadata.AdditionalFiles.RelativePath = SettingPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.PinkMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/PinkMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/PinkMode.xaml
