@@ -13,7 +13,7 @@ urlFragment: apps-calculator
 #
 
 Vincent Huynh (vinentHuynh) - Modified the base page to support comprehensive expressions, as well as doing the new layout and functions for the 4 additional buttons.
-Commit codes: 38ca601343c6820f48a0df4a4348856ccd30d567, 6dbf8841d6016569b516f88e19809b11a0e25d6f
+Commit codes: 38ca601343c6820f48a0df4a4348856ccd30d567, 6dbf8841d6016569b516f88e19809b11a0e25d6f,83b7c77c9c0322af2dd5793fb328bf8468ca4b0a
 
 Kevin Le (lekevin) - Created and styled the about page and flyout navigation items and tab bar along with the extra pages that needed to be added to meet the requirements.
 Commit codes: 21bfa3f5a9bc4658346dcb01db332c20483a2b1a, e3b1c85462905e66edeca0105c11873203fd8cd3, c216a69b87ec9e6c6e2ca6c5e5e5b8ccaf7af129
