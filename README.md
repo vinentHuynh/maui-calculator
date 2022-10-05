@@ -12,8 +12,6 @@ urlFragment: apps-calculator
 
 #
 
-Vincent Huynh (vinentHuynh), Kevin Le (lekevin), Tuan Nguyen (tuannguyencs)
-
 Vincent Huynh (vinentHuynh) - Modified the base page to support comprehensive expressions, as well as doing the new layout and functions for the 4 additional buttons.
 Commit codes: 38ca601343c6820f48a0df4a4348856ccd30d567, 6dbf8841d6016569b516f88e19809b11a0e25d6f
 
