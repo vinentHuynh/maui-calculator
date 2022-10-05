@@ -20,5 +20,5 @@
     <Color x:Key="FlyoutBackground">#752B6A</Color>
     <Color x:Key="ButtonColor">White</Color>
     <Color x:Key="MeetTheDevsBackground">Pink</Color>
-    <Color x:Key="LowerAboutBackground">Black</Color>
+    <Color x:Key="LowerAboutBackground">LightGray</Color>
 </ResourceDictionary>

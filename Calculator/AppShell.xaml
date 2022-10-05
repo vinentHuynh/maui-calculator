@@ -11,25 +11,25 @@
         <FontImageSource Color="LightGrey" Size="24" Glyph="&#xf30c;"/>
     </Shell.FlyoutIcon>
 
-    <FlyoutItem Title="Calculator" Icon="calc.svg">
+    <FlyoutItem Title="Calculator" Icon="calc.png">
         <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
     </FlyoutItem>
 
+    <FlyoutItem Title="Calculator Lite" Icon="gear">
+        <ShellContent
+            Title="Calculator Lite"
+            ContentTemplate="{DataTemplate local:BasicCalc}"
+            Route="CalculatorPlus" />
+    </FlyoutItem>  
+
     <FlyoutItem Title="About" Icon="about.svg">
         <ShellContent
         Title="About"
         ContentTemplate="{DataTemplate local:AboutPage}"
         Route="AboutPage" />
-    </FlyoutItem>
-
-    <FlyoutItem Title="Calculator Lite" Icon="gear">
-        <ShellContent
-        Title="Calculator Lite"
-        ContentTemplate="{DataTemplate local:BasicCalc}"
-        Route="CalculatorPlus" />
     </FlyoutItem>
 
     <MenuItem

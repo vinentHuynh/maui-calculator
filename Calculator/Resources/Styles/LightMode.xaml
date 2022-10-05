@@ -15,12 +15,12 @@
     <Color x:Key="DarkGray">#505050</Color>
     <Color x:Key="ButtonBackgroundColor">#b9aaee</Color>
     <Color x:Key="ButtonTextColor">#2B0B98</Color>
-    <Color x:Key="PageBackgroundColor">LightGray</Color>
+    <Color x:Key="PageBackgroundColor">White</Color>
     <Color x:Key="LabelTextColor">Black</Color>
     <Color x:Key="FlyoutBackground">White</Color>
     <Color x:Key="ButtonColor">DarkGray</Color>
     <Color x:Key="MeetTheDevsBackground">#b9aaee</Color>
-    <Color x:Key="LowerAboutBackground">LightGray</Color>
+    <Color x:Key="LowerAboutBackground">White</Color>
 
     <Style TargetType="Border">
         <Setter Property="Stroke" Value="{AppThemeBinding Light={StaticResource LightGray}, Dark={StaticResource DarkGray}}" />

@@ -145,11 +145,9 @@ public partial class MainPage : ContentPage
     }
     void OnLeftPara(object sender, EventArgs e)
     {
-
     }
     void OnRightPara(object sender, EventArgs e)
     {
-
     }
     void OnMod(object sender, EventArgs e)
     {
