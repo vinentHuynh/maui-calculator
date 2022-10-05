@@ -38,3 +38,15 @@ Flyout Navigation
 
 About Page
 <img width="775" alt="image" src="https://user-images.githubusercontent.com/90580031/193949840-5fd01ac2-5a8d-4a9c-ad46-7bc7d5915c80.png">
+
+Comprehensive expression
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/90580031/193970013-ea044db0-b27c-4781-835a-770eb85f02d5.png">
+
+Parentheses
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/90580031/193970240-5ef0c346-b9f6-4355-a887-fb0cd1cacd33.png">
+
+Sqrt
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/90580031/193970198-48c46836-ed05-4357-9fbb-3e760a6e26d7.png">
+
+Mod
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/90580031/193970275-2f286110-7cb5-4539-be4b-2b2cf2c33245.png">
